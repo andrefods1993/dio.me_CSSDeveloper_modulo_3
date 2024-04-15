@@ -1,5 +1,6 @@
 <h1 align="center">Clone do Site HBO Max</h1>
 <h4 align="center">Com modificações</h4>
+![image](https://github.com/andrefods1993/dio.me_CSSDeveloper_modulo_3/assets/132412680/8f203992-01b3-47c8-b946-b6d5a1d0ba58)
 
 <p align="center">
   Este projeto é um clone do site HBO Max, desenvolvido como parte do curso "Trilha de CSS" na plataforma Digital Innovation One (DIO). O objetivo é reproduzir a interface do HBO Max, aplicando os temas e recursos de HTML e CSS aprendidos ao longo das aulas.
