@@ -50,7 +50,7 @@ O desafio que estou enfrentando neste projeto é aplicar de forma criativa e efi
 
 Você pode visualizar uma demonstração do projeto [clicando aqui](https://andrefods1993.github.io/dio.me_CSSDeveloper_modulo_3/).
 
-<h2 id="author">🧑🏾‍💻 Autora</h2>
+<h2 id="author">🧑🏾‍💻 Autor</h2>
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/132412680?v=4"/>
